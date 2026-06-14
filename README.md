@@ -249,7 +249,7 @@ foundryup
 ### Installation
 
 ```bash
-git clone https://github.com/danushkka/dsc-framework.git
+git clone https://github.com/danushkka/defi-stablecoin-framework.git
 cd dsc-framework
 forge install
 ```
